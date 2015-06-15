@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kairos/phpqrcode": "dev-master"
+    }
+}
