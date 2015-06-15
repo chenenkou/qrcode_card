@@ -10,6 +10,7 @@
     "tests"
   ],
   "dependencies": {
-    "amazeui": "~2.4.0"
+    "amazeui": "~2.4.0",
+    "jquery": "~2.1.4"
   }
 }
