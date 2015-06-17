@@ -1,6 +1,10 @@
 {
-  "name": "qrcode_card_assets",
-  "version": "0.0.0",
+  "name": "qrcode_card-assets",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chenenkou/qrcode_card",
+  "authors": [
+    "chenenkou <1187232704@qq.com>"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -10,7 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "amazeui": "~2.4.0",
-    "jquery": "~2.1.4"
+    "handlebars": "*",
+    "amazeui": "~2.4.0"
   }
 }
