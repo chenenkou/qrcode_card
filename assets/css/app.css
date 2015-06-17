@@ -1,3 +1,9 @@
+/*
+  改变banner区块中的背景色
+  区块中的字体颜色
+  区块中的文字居中
+  区块中的内边界上下100x像素
+*/
 .banner {
   background: #1E5B94;
   color: #fff;
